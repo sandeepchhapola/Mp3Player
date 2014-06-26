@@ -1,0 +1,10 @@
+{
+    "name": "Excercise",
+    "version": "0.1.0",
+    "main":"./Player/playMp3.js",
+    "bin" :{"Mp3player":"./Player/playMp3.js"},
+    "dependencies":{
+        "lame":"1.1.0",
+        "speaker":"0.0.10"
+    }
+}
